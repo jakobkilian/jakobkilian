@@ -12,11 +12,11 @@ _The Unfolding Space Glove is an experimental Open Source wearable that allows b
 
 This project ran from about 2018 to 2022, being my bachelor _and_ master thesis and ending in an empirical study being published in a well-cited paper in 2022. Also check out the [website](http://unfoldingspace.org/) for more links to videos and the paper.
 ### Interfacing UR3 Robotic Arms ↗
-_A universal and easy to use OSC/MQTT Interface for the UR3 and insights and findings of experiments I conducted with UR3 robot arms_
+_Universal OSC/MQTT Interface for the UR3 and insights and findings of experiments I conducted with UR3 robot arms_
 
 Controlling a Universal Robots UR3 is far from trivial, especially when it comes to performing smooth, real-time movements based on sensor input. In addition to the inherent complexity of programming crash-free 3D movement UR lacks proper documentation and sometimes provides buggy installers. I wondered why there wasn't a universal interface that could be used to remotely control the robot from any programming language and any device via network. So I build this OSC/MQTT bridge to connect the robot with e.g. python, MaxMSP, Processing or others.
 ### Interactive Systems Courses at KISD, Cologne [↗](https://github.com/KISDinteractive)
-_A teaching format at the intersection of **AI and design**, starting with the basics of coding and computing and progressing to machine learning and deployment on microcontrollers._
+_Teaching format at the intersection of **AI and design**, starting with the basics of coding and computing and progressing to machine learning and deployment on microcontrollers._
 
 From 2022 to 2025, I worked at the Cologne International School of Design in Cologne, Germany, as part of the joint research project [KITeGG](https://www.gestaltung.ai/en). Together with my colleague, Eduard Paal, I developed a basic programming and computer science course for designers, as well as two follow-up courses on Arduino programming and Tiny Machine Learning.
 ### Other [↗](https://github.com/stars/jakobkilian/lists/other)
