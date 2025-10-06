@@ -22,8 +22,7 @@ From 2022 to 2025, I worked at the Cologne International School of Design in Col
 
 ### Other / Diverse [↗](https://github.com/stars/jakobkilian/lists/other)
 
-_Find other smaller projects I did here_
+- [finder-shortcuts](https://github.com/jakobkilian/finder-shortcuts): buttons for creating new .md note, getting the path, ...
 - [simple_osc2mqtt](https://github.com/jakobkilian/simple_osc2mqtt): a tiny python script to act as a bridge between OSC and MQTT
 - [slamtec-lidar-rt-closest-point](https://github.com/jakobkilian/slamtec-lidar-rt-closest-point): real-time closest point and average point detection for SLAMTEC LIDAR sensors.
 - [whisper-jax-toolchain](https://github.com/jakobkilian/whisper-jax-toolchain): quick and dirty pipeline for whisper_jax on a A100 Server
-
