@@ -19,7 +19,11 @@ Controlling a Universal Robots UR3 is far from trivial, especially when it comes
 _Teaching format at the intersection of **AI and design**, starting with the basics of coding and computing and progressing to machine learning and deployment on microcontrollers._
 
 From 2022 to 2025, I worked at the Cologne International School of Design in Cologne, Germany, as part of the joint research project [KITeGG](https://www.gestaltung.ai/en). Together with my colleague, Eduard Paal, I developed a basic programming and computer science course for designers, as well as two follow-up courses on Arduino programming and Tiny Machine Learning.
-### Other [↗](https://github.com/stars/jakobkilian/lists/other)
+
+### Other / Diverse [↗](https://github.com/stars/jakobkilian/lists/other)
+
 _Find other smaller projects I did here_
-- simple_osc2mqtt: a tiny python script to act as a bridge between OSC and MQTT
+- [simple_osc2mqtt](https://github.com/jakobkilian/simple_osc2mqtt): a tiny python script to act as a bridge between OSC and MQTT
+- [slamtec-lidar-rt-closest-point](https://github.com/jakobkilian/slamtec-lidar-rt-closest-point): real-time closest point and average point detection for SLAMTEC LIDAR sensors.
+- [whisper-jax-toolchain](https://github.com/jakobkilian/whisper-jax-toolchain): quick and dirty pipeline for whisper_jax on a A100 Server
 
