@@ -13,9 +13,11 @@ _The Unfolding Space Glove is an experimental Open Source wearable that allows b
 
 This project ran from about 2018 to 2022, being my bachelor _and_ master thesis and ending in an empirical study being published in a well-cited paper in 2022. Also check out the [website](http://unfoldingspace.org/) for more links to videos and the paper.
 
-### 🎛️ ClipDeck – Clip Launcher for Ableton [↗](https://github.com/stars/jakobkilian/lists/clipdeck)
+### 🎛️ ClipDeck [↗](https://github.com/stars/jakobkilian/lists/clipdeck)
 
-Launch and display Ableton Live clips (name, color and playing progress) on Elgato Stream Deck devices. Basically a Launchpad on steroids to avoid the usage of a computer screen in a live setup.
+_Launch and display Ableton Live clips (name, color and playing progress) on Elgato Stream Deck devices._
+
+Basically a Launchpad on steroids to avoid the usage of a computer screen in a live setup.
 
 ### 🦾 Interfacing UR3 Robotic Arms for Creative Uses [↗](https://github.com/jakobkilian/ur3-bridge/)
 
