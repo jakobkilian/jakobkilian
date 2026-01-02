@@ -13,7 +13,7 @@ _The Unfolding Space Glove is an experimental Open Source wearable that allows b
 
 This project ran from about 2018 to 2022, being my bachelor _and_ master thesis and ending in an empirical study being published in a well-cited paper in 2022. Also check out the [website](http://unfoldingspace.org/) for more links to videos and the paper.
 
-### 🎛️ ClipDeck [↗](https://github.com/stars/jakobkilian/lists/clipdeck)
+### 🎛️ ClipDeck [↗](https://github.com/jakobkilian/Clipdeck)
 
 _Launch and display Ableton Live clips (name, color and playing progress) on Elgato Stream Deck devices._
 
